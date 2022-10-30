@@ -1,0 +1,73 @@
+{
+    "products": [
+        {
+          "albumId": 1,
+          "id": 1,
+          "name": "accusamus beatae ",
+          "src": "https://via.placeholder.com/600/92c952",
+          "price": 10000
+        },
+        {
+          "albumId": 1,
+          "id": 2,
+          "name": "reprehenderit ",
+          "src": "https://via.placeholder.com/600/771796",
+          "price": 12000
+        },
+        {
+          "albumId": 1,
+          "id": 3,
+          "name": "officia porro iure ",
+          "src": "https://via.placeholder.com/600/24f355",
+          "price": 13000
+        },
+        {
+          "albumId": 1,
+          "id": 4,
+          "name": "culpa odio esse rerum ",
+          "src": "https://via.placeholder.com/600/d32776",
+          "price": 14000
+        },
+        {
+          "albumId": 1,
+          "id": 5,
+          "name": "natus nisi omnis ",
+          "src": "https://via.placeholder.com/600/f66b97",
+          "price": 15000
+        },
+        {
+          "albumId": 1,
+          "id": 6,
+          "name": "accusamus ea ",
+          "src": "https://via.placeholder.com/600/56a8c2",
+          "price": 16000
+        },
+        {
+          "albumId": 1,
+          "id": 7,
+          "name": "officia delectus ",
+          "src": "https://via.placeholder.com/600/b0f7cc",
+          "price": 17000
+        },
+        {
+          "albumId": 1,
+          "id": 8,
+          "name": "aut porro officiis ",
+          "src": "https://via.placeholder.com/600/54176f",
+          "price": 18000
+        },
+        {
+          "albumId": 1,
+          "id": 9,
+          "name": "qui eius qui ",
+          "src": "https://via.placeholder.com/600/51aa97",
+          "price": 19000
+        },
+        {
+          "albumId": 1,
+          "id": 10,
+          "name": "beatae et provident ",
+          "src": "https://via.placeholder.com/600/810b14",
+          "price": 20000
+        }]
+}
